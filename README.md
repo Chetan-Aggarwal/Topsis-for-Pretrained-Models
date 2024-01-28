@@ -1,4 +1,5 @@
 # TOPSIS Analysis for Text-Sentence Similarity
+![Ranking](result_ranking.png)
 
 ## Step 1: Choose 10 pre-trained models from Hugging Face
 
